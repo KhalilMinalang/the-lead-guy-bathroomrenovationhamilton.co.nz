@@ -166,4 +166,15 @@ a.elementor-button.elementor-button-link.elementor-size-sm.elementor-animation-p
     .elementor-widget-wrap.elementor-element-populated {
     border-radius: 25px !important;
   }
+
+  /* exceptions */
+  .marben--exception-py-20 {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+  }
+
+  .marben--exception h1.elementor-heading-title.elementor-size-default {
+    font-family: "Marcellus", sans-serif !important;
+    font-size: 40px !important;
+  }
 }
