@@ -1,0 +1,169 @@
+.nf-form-cont input.ninja-forms-field.nf-element[type="submit"] {
+  border-radius: 100px;
+  padding: 20px;
+  background-color: #332f2c;
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 16px !important;
+  padding: 14px 35px !important;
+}
+
+.nf-form-cont input.ninja-forms-field.nf-element[type="submit"]:hover {
+  background-color: #e6af5d;
+  color: #fff;
+}
+
+.nf-form-cont label {
+  color: #332f2c;
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 16px !important;
+}
+
+h1.elementor-heading-title.elementor-size-default {
+  font-family: "Marcellus", sans-serif !important;
+  font-size: 67px !important;
+}
+
+@media (max-width: 767px) {
+  h1.elementor-heading-title.elementor-size-default {
+    font-size: 52px !important;
+  }
+}
+
+h2.elementor-heading-title.elementor-size-default {
+  font-family: "Marcellus", sans-serif !important;
+  font-size: 32px !important;
+}
+
+@media (max-width: 767px) {
+  .marben--hero-text-column {
+    min-height: 850px;
+  }
+}
+
+.marben--preheader .elementor-icon-box-icon {
+  color: #332f2c !important;
+}
+
+.marben--preheader-h1 .elementor-icon {
+  color: #e6af5d !important;
+}
+
+.marben--preheader-h1 .elementor-icon-box-title {
+  font-family: "Helvetica", sans-serif !important;
+  color: #fff;
+  font-size: 22px !important;
+}
+
+.marben--preheader h3.elementor-icon-box-title {
+  font-family: "Helvetica", sans-serif !important;
+  color: #e6af5d !important;
+  font-size: 14px !important;
+}
+
+a.elementor-button.elementor-button-link.elementor-size-sm.elementor-animation-pulse {
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 14px !important;
+  padding: 14px 35px !important;
+  border-radius: 100px;
+  background-color: transparent;
+  border: 1px solid #fff;
+}
+
+.marben--button-bb
+  a.elementor-button.elementor-button-link.elementor-size-sm.elementor-animation-pulse {
+  border: 1px solid #332f2c !important;
+  color: #332f2c !important;
+}
+
+.marben--button-bb
+  a.elementor-button.elementor-button-link.elementor-size-sm.elementor-animation-pulse:hover,
+a.elementor-button.elementor-button-link.elementor-size-sm.elementor-animation-pulse:hover,
+a.elementor-button.elementor-button-link.elementor-size-sm.elementor-animation-pulse:active {
+  border: 1px solid #e6af5d !important;
+  background-color: #e6af5d;
+  color: #fff !important;
+}
+
+.elementor-widget-container p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+
+.marben--form-fiq .elementor-widget-wrap.elementor-element-populated {
+  background-color: #e7e0cc !important;
+  border-radius: 25px 25px 0px 0px;
+}
+
+.marben--form-fiq .elementor-widget-wrap.elementor-element-populated h3 {
+  font-family: "Marcellus", sans-serif !important;
+  font-size: 30px !important;
+}
+
+.marben--text-highlights p {
+  color: #e6af5d !important;
+  /* color: #8d9396 !important; */
+}
+
+.marben--feature-cards-section-type-1 .elementor-icon,
+.marben--feature-cards-section-type-2 .elementor-icon {
+  color: #e6af5d !important;
+}
+
+.marben--feature-cards-section-type-1
+  .elementor-widget-wrap.elementor-element-populated,
+.marben--feature-cards-section-type-2
+  .elementor-widget-wrap.elementor-element-populated {
+  border-radius: 25px !important;
+}
+
+.marben--feature-cards-section-type-1 .elementor-icon-box-title,
+.marben--feature-cards-section-type-2 .elementor-icon-box-title {
+  font-family: "Marcellus", sans-serif !important;
+  font-size: 26px !important;
+}
+
+.marben--feature-cards-section-type-1 .elementor-icon-box-description,
+.marben--feature-cards-section-type-2 .elementor-icon-box-description {
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 14px !important;
+}
+
+/* .marben--process-facts  */
+.marben--process-facts .elementor-icon {
+  color: #332f2c !important;
+}
+
+.marben--process-facts h3.elementor-icon-box-title {
+  font-family: "Marcellus", sans-serif !important;
+  font-size: 20px !important;
+}
+
+/* .marben--image-box */
+.marben--image-box .elementor-widget-wrap.elementor-element-populated {
+  border-radius: 25px !important;
+  border-color: #8d9396 !important;
+}
+
+.marben--image-box img {
+  border-radius: 25px !important;
+}
+
+.marben--image-box .elementor-widget-wrap.elementor-element-populated:hover {
+  border-color: #e6af5d !important;
+}
+
+.marben--section-colored {
+  background-color: #e7e0cc !important;
+}
+
+.marben--section-colored * {
+  color: #332f2c !important;
+}
+
+@media (max-width: 480px) {
+  .marben--section-colored
+    .marben--image-part
+    .elementor-widget-wrap.elementor-element-populated {
+    border-radius: 25px !important;
+  }
+}
